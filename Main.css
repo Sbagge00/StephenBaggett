@@ -1,6 +1,11 @@
-﻿* {
+* {
     margin: 0;
     padding: 0;
+}
+a#list-chap1-list.btn.btn-warning {
+    background-color: #d2ff00;
+    color: black;
+    border-color: #6c757d;
 }
 ul {
     list-style: none;
@@ -37,7 +42,7 @@ p {
     margin-bottom: 0px;
 }
 #blog {
-    background-image: url("ItalyBackground.jpg");
+    background-image: url("Keyboard.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -52,7 +57,7 @@ p {
     background-size: cover;
 }
 #events {
-    background-image: url("RoadBackground.jpg");
+    background-image: url("Code.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -99,7 +104,7 @@ h2 {
 }
 audio {
     float: right;
-    width: 80px;
+    width: 290px;
 }
 footer {
     background-color: black;
